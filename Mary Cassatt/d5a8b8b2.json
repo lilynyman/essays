@@ -25,48 +25,6 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "Sara's round, pink cheeks make her look cherubic and innocent",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://iiif-image.juncture-digital.org/iiif/2/d5a8b8b27d4316e368dd6ffbdb13473ee7dd7e16dac1c6118b2b176965a0ddc2",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:384.4567565917969,420.59332275390625,66.36978149414062,102.19735717773438"
-      },
-      "id": "d5a8b8b2"
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "b398fe40"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "Sara's pink bow highlights that while she is still a child, it is made from a high quality material and she is expected to dress well.",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://iiif-image.juncture-digital.org/iiif/2/d5a8b8b27d4316e368dd6ffbdb13473ee7dd7e16dac1c6118b2b176965a0ddc2",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:44.961090087890625,302.3363952636719,53.74858856201172,87.75997924804688"
-      },
-      "id": "d5a8b8b2"
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "ad433c5d"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
         "value": "At a closer glance, the viewer  will realize that Sara is holding a kitten, not an adult cat. Sara and the kitten remain composed, rather than squirming or wriggling around due to excitement, as if to depict the expectations of children and pets of being seen and not heard.",
         "purpose": "commenting"
       }
@@ -103,5 +61,47 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "96d6d5e2"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Sara's pink bow highlights that while she is still a child, it is made from a high quality material and she is expected to dress well.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/d5a8b8b27d4316e368dd6ffbdb13473ee7dd7e16dac1c6118b2b176965a0ddc2",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:44.961090087890625,302.3363952636719,53.74858856201172,87.75997924804688"
+      },
+      "id": "d5a8b8b2"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ad433c5d"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Sara's round, pink cheeks make her look cherubic and innocent",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/d5a8b8b27d4316e368dd6ffbdb13473ee7dd7e16dac1c6118b2b176965a0ddc2",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:384.4567565917969,420.59332275390625,66.36978149414062,102.19735717773438"
+      },
+      "id": "d5a8b8b2"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b398fe40"
   }
 ]
