@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Sara's hands are shown as fleshy and full, indicating she is a young toddler due to her baby fat",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/d5a8b8b27d4316e368dd6ffbdb13473ee7dd7e16dac1c6118b2b176965a0ddc2",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:376.048095703125,748.35498046875,102.00845336914062,112.57928466796875"
+      },
+      "id": "d5a8b8b2"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "dfd2b47f"
+  }
+]
