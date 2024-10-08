@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "sara",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/d5a8b8b27d4316e368dd6ffbdb13473ee7dd7e16dac1c6118b2b176965a0ddc2",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:190.93063354492188,890.214599609375,1,1"
+      },
+      "id": "d5a8b8b2"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8aa6ab9d"
+  }
+]
