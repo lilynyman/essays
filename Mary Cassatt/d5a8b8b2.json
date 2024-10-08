@@ -82,5 +82,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "5151b4b4"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Sara's reddish-golden hair is illuminated by the light source, highlight a few stray hairs to indicate some movement. However, her hair is still neat and tidy, showing that  she is expected to sit still and stay tidy despite being a small toddler",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/d5a8b8b27d4316e368dd6ffbdb13473ee7dd7e16dac1c6118b2b176965a0ddc2",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:382.1451416015625,132.59042358398438,102.54852294921875,84.02894592285156"
+      },
+      "id": "d5a8b8b2"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "96d6d5e2"
   }
 ]
