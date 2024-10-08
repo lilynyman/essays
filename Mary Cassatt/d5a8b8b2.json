@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "b398fe40"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Sara's pink bow highlights that while she is still a child, it is made from a high quality material and she is expected to dress well.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/d5a8b8b27d4316e368dd6ffbdb13473ee7dd7e16dac1c6118b2b176965a0ddc2",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:44.961090087890625,302.3363952636719,53.74858856201172,87.75997924804688"
+      },
+      "id": "d5a8b8b2"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ad433c5d"
   }
 ]
