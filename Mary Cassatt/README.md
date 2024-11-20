@@ -15,9 +15,10 @@ Sara Holding a Ca, painted in 1908, illustrates an elegant depiction of a child 
 .ve-video https://www.youtube.com/watch?v=wUEfAkMepDk
 The video above discusses Cassatt's career as an Impressionist, allowing a glimpse into her artist portfolio. Rather than adhering to the established Impressionist canon of landscapes and flowers, Cassatt paved a different path by asserting that her intimate familial portraits are just as worthy and important in art. Several Cassatt experts weigh in on how she created a name for herself as an American Impressionist, while also staying true to her own beliefs on what deserved to have a legacy on art history, whether she intended for her work to become so famous. Cassatt's style, technique and static choice of subject matter indicated that she never planned to stray away from representing girlhood and femininity in her art. She wanted these women to have at least one person who would keep their legacies aflame for centuries
 
-.ve-media wc:Cassatt_Mary_Mother_Combing_Child%27s_Hair_1879.jpg
+.ve-media wc:Cassatt_Mary_Mother_Combing_Child%27s_Hair_1879.jpg 
 
 Mother Combing Child's Hair, painted in 1879, illustrates the often thankless and frustrating task of combing a young child's knotted hair. In the painting we can see that the mother has a firm hold on her child's chin to keep it upright to ensure she can brush through the hair thoroughly. This image ushers in the viewer's nostalgia, as we have all experienced the process of having our hair meticulously brushed, and the child in the painting is no exception. It is as if the child has begrudgingly accepted defeat and relents to the mother. Not only does this image capture the often-defiant attitude of young children, but it also encapsulates the strength and willpower of mothers who do everything in their power to ensure that their children are taken care of.
+
 
 .ve-media wc:Mary_Cassatt_-_The_Boating_Party_-_Google_Art_Project.jpg
 
@@ -27,7 +28,24 @@ The Boating Party, painted in 1893, showcases a family boat outing between paren
 
 The Child’s Bath, painted in 1893, illustrates the domestic scene of a mother assisting her daughter during her bath. Cassatt’s use of an overhead angle, along with a bathing scene was directly influenced by Japanese wood-cut prints. Cassatt frequently traveled overseas and was one of many Impressionists inspired by wood-cut prints during the Edo period in Japan. Intimate, domestic scenes were common choices of subject matter in these prints, which goes hand in hand with Cassatt’s own signature subject matter. The child is observant of her mother washing her feet, and contrary to Cassatt’s other works, she does have much movement. It's as if her mother had scolded her beforehand, warning her not to make a mess in the water basin. The child’s head is also down to indicate that she is listening and concentrating on her mother’s actions, while obeying her orders and maintaining her good behavior. The scene does not feel overwhelming positive or negative, indicating that the actions are happening out of the necessity of bathing. Her work reiterates a nurturing, maternal energy, while encouraging the importance of self-care. Cassatt ushered in a new standard for female portraiture, asserting that women are not rich in clothing, jewels or title. Rather, it is the memories with their families, the innocence and mischief of their childhoods and the wisdom of motherhood are some of the most powerful representations of what it means to be a woman. 
 
+#Mary Cassatt's Legacy on Impressionism
 
- 
- 
+[Heilbrunn Timeline of Art History](https://www.metmuseum.org/toah/hd/cast/hd_cast.htm)
 
+==Mary Cassatt=={Q173223}
+
+[Fine Arts Museum of San Francisco](https://www.famsf.org/stories/5-things-to-know-impressionist-mary-cassatt)
+
+==Mary Cassatt=={Q87251908}
+
+[National Museum of Women in the Arts](https://nmwa.org/art/artists/mary-cassatt/)
+
+==Mary Cassatt=={Q3850446}
+
+[National Gallery of Art](https://www.nga.gov/features/slideshows/mary-cassatt-selected-paintings.html)
+ 
+ ==Mary Cassatt=={Q113993034}
+ 
+ [Art Institute of Chicago](https://www.artic.edu/artists/33890/mary-cassatt)
+ 
+==Mary Cassatt=={Q77826076}
